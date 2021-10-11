@@ -21,4 +21,4 @@ doi={10.1109/HST48691.2020.9107561}
 
 2- IEEE
 
-Z. Z. Abideen, T. D. Perez and S. pagliarini, “From FPGAs to Obfuscated eASICs: Design and Security Trade-offs” in IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2021, pp. 1–4.
+Z. U. Abideen, T. D. Perez and S. pagliarini, “From FPGAs to Obfuscated eASICs: Design and Security Trade-offs” in IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2021, pp. 1–4.
