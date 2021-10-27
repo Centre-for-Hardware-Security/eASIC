@@ -26,3 +26,4 @@ Z. U. Abideen, T. D. Perez and S. pagliarini, “From FPGAs to Obfuscated eASICs
 3- Preprint
 
 The preprint of the paper is available on the following link:
+https://arxiv.org/abs/2110.05335
