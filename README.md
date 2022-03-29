@@ -9,19 +9,19 @@ Use the following format of your choice to cite this paper:
 1- Bibtex
 
 @INPROCEEDINGS{eASIC, 
-author={Z. U. {Abideen} and T. D. {Perez}, S. {Pagliarini}},
-booktitle={Asian Hardware Oriented Security and Trust Symposium (AsianHOST)},
+author={Abideen, Zain Ul and Perez, Tiago Diadami and Pagliarini, Samuel},
+booktitle={2021 Asian Hardware Oriented Security and Trust Symposium (AsianHOST)},
 title={From FPGAs to Obfuscated eASICs: Design and Security Trade-offs},
 year={2021},  
 volume={},  
 number={},  
 pages={1-4},  
-doi={}
+doi={10.1109/AsianHOST53231.2021.9699758}
 }
 
 2- IEEE
 
-Z. U. Abideen, T. D. Perez and S. pagliarini, “From FPGAs to Obfuscated eASICs: Design and Security Trade-offs” in IEEE Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2021, pp. 1–4.
+Z. U. Abideen, T. D. Perez and S. Pagliarini, "From FPGAs to Obfuscated eASICs: Design and Security Trade-offs," 2021 Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2021, pp. 1-4, doi: 10.1109/AsianHOST53231.2021.9699758.
 
 3- Preprint
 
