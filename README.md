@@ -19,11 +19,26 @@ pages={1-4},
 doi={10.1109/AsianHOST53231.2021.9699758}
 }
 
+@ARTICLE{hASIC,
+author={Abideen, Zain Ul and Perez, Tiago Diadami and Martins, Mayler and Pagliarini, Samuel},
+journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}, 
+title={A Security-aware and LUT-based CAD Flow for the Physical Synthesis of hASICs}, 
+year={2023},
+volume={},
+number={},
+pages={1-1},
+doi={10.1109/TCAD.2023.3244879}
+}
+
+
 2- IEEE
 
 Z. U. Abideen, T. D. Perez and S. Pagliarini, "From FPGAs to Obfuscated eASICs: Design and Security Trade-offs," 2021 Asian Hardware Oriented Security and Trust Symposium (AsianHOST), 2021, pp. 1-4, doi: 10.1109/AsianHOST53231.2021.9699758.
 
+Z. U. Abideen, T. D. Perez, M. Martins and S. Pagliarini, "A Security-aware and LUT-based CAD Flow for the Physical Synthesis of hASICs," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2023.3244879.
+
 3- Preprint
 
-The preprint of the paper is available on the following link:
+The preprints of this projects are available on the following links:
 https://arxiv.org/abs/2110.05335
+https://arxiv.org/abs/2207.05413
